@@ -1,15 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
+    title: 'NFL Arrests',
+    subtitle: '',
+    link: 'https://analytics.brandondonelan.com/docs',
     image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    date: '2020-5-15',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Serverless Machine Learning predicting NFL fanbase unruly behavior.'
+      + 'Using the FastAPI webserver framework '
+      + 'together with AWS ECS+Fargate and AWS Lambda.',
   },
   {
     title: 'Harvest',

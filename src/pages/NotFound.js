@@ -5,8 +5,8 @@ import { Helmet, HelmetProvider } from 'react-helmet-async';
 const PageNotFound = () => (
   <HelmetProvider>
     <div className="not-found">
-      <Helmet title="404 Not Found">
-        <meta name="description" content="The content you are looking for cannot be found." />
+      <Helmet title="418 I'm a teapot">
+        <meta name="description" content="I am a teapot. Just kidding 404 Cannot be Found. Boring." />
       </Helmet>
       <h1 data-testid="heading">Page Not Found</h1>
       <p>Return <Link to="/">home</Link>.</p>
