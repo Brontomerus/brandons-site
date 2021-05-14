@@ -98,11 +98,6 @@ const skills = [
     category: ['Languages'],
   },
   {
-    title: 'Julia',
-    competency: 1,
-    category: ['Languages'],
-  },
-  {
     title: 'Cypher',
     competency: 1,
     category: ['Graph', 'Databases', 'NoSQL', 'Languages'],
@@ -198,14 +193,24 @@ const skills = [
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
-    title: 'Spark',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science', 'Distributed Systems'],
+    title: 'Regression',
+    competency: 4,
+    category: ['Data Science', 'Data Analytics'],
   },
   {
-    title: 'pipy',
+    title: 'Classification',
     competency: 4,
-    category: ['Python'],
+    category: ['Data Science', 'Data Analytics'],
+  },
+  {
+    title: 'Unsupervised ML (Clustering)',
+    competency: 4,
+    category: ['Data Science', 'Data Analytics'],
+  },
+  {
+    title: 'MLOps',
+    competency: 4,
+    category: ['Data Engineering', 'Data Science', 'Python', 'Cloud', 'DevOps'],
   },
   {
     title: 'Machine Learning',
@@ -214,7 +219,17 @@ const skills = [
   },
   {
     title: 'Critical Learning',
-    competency: 4,
+    competency: 5,
+    category: ['Soft Skills'],
+  },
+  {
+    title: 'Strategic Planning',
+    competency: 5,
+    category: ['Soft Skills'],
+  },
+  {
+    title: 'Learning',
+    competency: 5,
     category: ['Soft Skills'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
