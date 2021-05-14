@@ -19,7 +19,7 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 
 - My wonderful girlfriend, [Summer Nairn](summer-nairn.com)
 - Cleveland Browns football (yes, even when they were 1-31 over a 3 year span...)
-- NASCAR - Favorite Cars are the #12 and #21
+- NASCAR - Favorite Cars are the #12 Penske car and #21 Wood Brothers Racing car
 - Learning and generally being curious about things
 - Running & Weight Training
 - Machine Learning

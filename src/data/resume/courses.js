@@ -1,9 +1,9 @@
 const courses = [
   {
-    title: 'The only substitute for tangible courses is living it in real-life.',
-    number: 'sink or swim',
+    title: 'I have found projects outside of school have taught me much more than any class on a syllabus',
+    number: 'The Real World',
     link: 'https://www.google.com',
-    university: 'the internet',
+    university: 'the internet, colleagues, and mentors',
   },
 ];
 
