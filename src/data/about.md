@@ -14,6 +14,7 @@ Currently, I work as an Analytics Data Engineer at [RevSpring](https://revspring
 I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville,+OH), which is a suburb directly southwest of Cleveland, Ohio. I attended the wonderful public schools there, and graduated from Strongsville High School in the class of 2014. While growing up, I enjoyed athletics and was involved in both football and baseball throughout most of my childhood and was able to pursue that because of the support from my wonderful parents, Tom and Ginny. I have 2 older siblings, a brother named Connor and a sister named Emmie. As the youngest of three, perhaps my greatest feat was still being my parents favorite despite the long odds (Any other youngest childern out there will understand that joke). 
 
 
+
 # I like
 
 - My wonderful girlfriend, [Summer Nairn](summer-nairn.com)
