@@ -20,9 +20,9 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Brandon. I like data.
-        I am an <a href="https://osu.edu/">Ohio State University</a> graduate, Delta Chi Alumni, and
-        work at <a href="https://www.shakeitupdice.com/">Deck of Dice Gaming</a> and
-        , <a href="https://revspringinc.com/">RevSpring</a>.
+        I am an <a href="https://osu.edu/">Ohio State University</a> graduate, currently serve as
+        the Head of Analytics for <a href="https://www.shakeitupdice.com/">Deck of Dice Gaming</a>, and
+        as a Data Engineer at <a href="https://revspringinc.com/">RevSpring Inc</a>.
       </p>
       <ul className="actions">
         <li>
