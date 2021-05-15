@@ -25,7 +25,7 @@ const messages = [
   'just-saying-hi',
   'please-work-for-us',
   'help',
-  'admin'
+  'admin',
 ];
 
 const useInterval = (callback, delay) => {
@@ -78,8 +78,8 @@ const EmailLink = () => {
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
     >
-      <a href={validateText(message) ? `mailto:brandon.donelan@outlook.com ` : ''}>
-      {/* <a href={validateText(message) ? `mailto:${message}@brandon-donelan.com ` : ''}> */}
+      <a href={validateText(message) ? 'mailto:brandon.donelan@outlook.com ' : ''}>
+        {/* <a href={validateText(message) ? `mailto:${message}@brandon-donelan.com ` : ''}> */}
         <span>{message}</span>
         <span>@brandon-donelan.com</span>
       </a>

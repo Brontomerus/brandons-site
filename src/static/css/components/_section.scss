@@ -12,6 +12,27 @@
 		}
 	}
 
+	.blogpost {
+		article {
+			// border-top: double;
+			padding-top: 5em;
+		}
+		h1 {
+			color: darkgreen;
+			font-size: 1.1em;
+		}
+		h2 {
+			border-bottom: 4px solid;
+			font-size: 0.9em;
+		}
+		h3 {
+			border-bottom: 1px dotted;
+		}
+		h4 {
+			font-weight: bold
+		}
+	}
+
 	header {
 		p {
 			font-family: _font(family-heading);

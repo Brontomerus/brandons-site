@@ -3,22 +3,23 @@ import PropTypes from 'prop-types';
 
 import DataAnalytics from './Topics/DataAnalytics';
 
-const Articles = ({ data }) => (
+const Blogs = ({ data }) => (
   <div className="blog">
     <div className="link-to" id="blog" />
-    <div className="title">
-      <h3>Articles</h3>
+    <div className="header" id="blog" />
+    <div className="blog-container">
+      {data.map((article) => (
+        <DataAnalytics
+          data={article}
+          key={article.text}
+          id={article.name}
+        />
+      ))}
     </div>
-    {data.map((article) => (
-      <DataAnalytics
-        data={article}
-        key={article.text}
-      />
-    ))}
   </div>
 );
 
-Articles.propTypes = {
+Blogs.propTypes = {
   data: PropTypes.arrayOf(PropTypes.shape({
     title: PropTypes.string,
     subtitle: PropTypes.string,
@@ -27,8 +28,8 @@ Articles.propTypes = {
   })),
 };
 
-Articles.defaultProps = {
+Blogs.defaultProps = {
   data: [],
 };
 
-export default Articles;
+export default Blogs;

@@ -25,17 +25,19 @@ const lessonsLearned = raw('./lessons_learned.md');
 //   </Main>
 // );
 
-const articles = [
+const blogs = [
   {
-    title: 'Lessons Learned From Building My First Enterprise Predictive Analytics Systems',
-    subtitle: 'Tails From My Trial and Error Experiences',
-    date: '2-8-2021',
+    name: 'Lessons-Learned-Building-1st-Predictive-Analytics-Systems',
+    title: 'Lessons Learned Building 1st Predictive Analytics Systems',
+    subtitle: 'Prevailing through early failures',
+    date: '5-8-2021',
     text: lessonsLearned,
   },
   {
+    name: 'From-Analyst-to-Engineer',
     title: 'From Analyst to Engineer',
     subtitle: 'Making the Leap',
-    date: '2-8-2021',
+    date: '5-9-2021',
     text: analystToEngineer,
   },
   // {
@@ -46,4 +48,4 @@ const articles = [
   // },
 ];
 
-export default articles;
+export default blogs;

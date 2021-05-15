@@ -8,24 +8,27 @@ import { Link } from 'react-router-dom';
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const DataAnalytics = ({ data }) => (
-  <article className="dataanalytics-container">
-    <header>
-      <h2>{data.title} - {data.date}</h2>
-      <h4>{data.subtitle}</h4>
-    </header>
-    <ReactMarkdown
-      plugins={[gfm]}
-      source={data.text}
-      renderers={{
-        Link: LinkRenderer,
-      }}
-      escapeHtml={false}
-    />
-  </article>
+  <div className="blogpost" id={data.name}>
+    <article className="title">
+      <header>
+        <h1>{data.title}</h1>
+        <h2>{data.subtitle} - {data.date}</h2>
+      </header>
+      <ReactMarkdown
+        plugins={[gfm]}
+        source={data.text}
+        renderers={{
+          Link: LinkRenderer,
+        }}
+        escapeHtml={false}
+      />
+    </article>
+  </div>
 );
 
 DataAnalytics.propTypes = {
   data: PropTypes.shape({
+    name: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
     subtitle: PropTypes.string.isRequired,
