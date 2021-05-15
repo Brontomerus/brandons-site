@@ -58,10 +58,11 @@ I will define the general deployment approaches below, discussing each briefly m
 
 #### Event Stream or Pub/Sub
 
-__Scalability Score__: 9
-__Speed__: 9
-__Ease of Deployment__: 2
-__MLOps Pipeline__: 2 
+Report Card:
+- __Scalability Score__: 9
+- __Speed__: 9
+- __Ease of Deployment__: 2
+- __MLOps Pipeline__: 2 
 
 This type of deployment is pretty intricate, and would ideally service predictive models for internal web applications on for extremely high throughput systems. Ideally, the team looking to use this system should also be competent using event-driven activity. They should also have access to low-latency and highly available networking setups. If the data churn is off the charts, and your team has specific needs where an event bus makes sense, then by all means give deployment via event stream a good look. Examples of source systems and scenarios where this might apply would be:
 - You are building out IoT systems and want to predict the lifespan based on the syslogs in each device.
@@ -74,10 +75,11 @@ If you have the avaible tools and expertise, its a great choice!
 
 #### Batch
 
-__Scalability Score__: 7-10 (depends on your operational cluster/machine)
-__Speed__: 2
-__Ease of Deployment__: 8
-__MLOps Pipeline__: 8 
+Report Card:
+- __Scalability Score__: 7-10 (depends on your operational cluster/machine)
+- __Speed__: 2
+- __Ease of Deployment__: 8
+- __MLOps Pipeline__: 8 
 
 Batch refers to what most people think about when they think about run-of-the-mill ETL. You get a periodic file input or query lots of records on some cadence, and you need to do preform some sort of large-scale inference on them. In most cases, you're just changing data types or altering structures in the most efficient manner possible. However, with a predictive model thrown into the mix, there are some added complications.
 
@@ -99,10 +101,11 @@ Options:
 
 #### Direct Application Integration
 
-__Scalability Score__: 1
-__Speed__: 8
-__Ease of Deployment__: 9
-__MLOps Pipeline__: 5 
+Report Card:
+- __Scalability Score__: 1
+- __Speed__: 8
+- __Ease of Deployment__: 9
+- __MLOps Pipeline__: 5 
 
 
 By Direct Application Integration, I mean directly embedding the trained model in the Application code itself, or within the Application's Database. Examples of this include using PMML to define a simple regression model, and operationalizing that within a RDBMS database. In other cases, its also possible to build a small model in Python and embed that into the server-side code or even into a database trigger, given the database supports python run times. An example of a database that might be able to support that is Postgres, but sadly I have not tried that myself.
@@ -113,10 +116,11 @@ From what I've read, you don't really want to attempt it with a whole lot of thr
 
 #### REST API
 
-__Scalability Score__: 4
-__Speed__: 8
-__Ease of Deployment__: 9
-__MLOps Pipeline__: 8
+Report Card:
+- __Scalability Score__: 4
+- __Speed__: 8
+- __Ease of Deployment__: 9
+- __MLOps Pipeline__: 8
 
 The bread and the butter. 
 
