@@ -25,7 +25,7 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 
 # I like
 
-- My wonderful girlfriend, [Summer Nairn](summer-nairn.com)
+- My wonderful girlfriend, [Summer Nairn](https://summer-nairn.com)
 - Learning and generally being curious about things
 - Machine Learning
 - Space 
