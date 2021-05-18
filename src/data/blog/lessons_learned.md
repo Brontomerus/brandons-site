@@ -139,7 +139,7 @@ Here is a pretty simple decision table to use while facing down these sorts of p
 | Any                               | _Never changes_          | Any                          | Any                                       | Any                                        | Pre-Process. Use API / pass data to source system |
 | Low to Moderate                   | Timed cadence            | Maybe                        | Internal in private networks              | No                                         | Serverless Functions (ie AWS Lambda)              |
 | Moderate to High                  | Timed cadence            | _No_                         | Internal/External File-Based              | Yes or No                                  | Batch                                             |
-| Low                               | Low                      | Maybe\                       |                                           | Yes                                        | Database Integration                              |
+| Low                               | Low                      | Maybe                        |                                           | Yes                                        | Database Integration                              |
 |                                   |                          |                              |                                           |                                            |                                                   |
 
 
