@@ -64,7 +64,8 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 # Fun facts
 
 - I can (sort of) speak some Czech, or better said, Já umím mluvit trochu Česky.
-- I have never been able to spell "license" correctly without verifying via spellcheck or google.
+- Give me a Rubik's Cude and I'll solve it in less than 5 minutes.  
+- Can't spell "license" correctly without verifying via spellcheck or google.
 - I have a mullet, because 2020. Gives off a real Joe Dirt vibe, but I like going against the grain.
 - I have a cat named Cookie. He is a ~6 year old tabby rescue, and follows me around everywhere. Kind of like a furry parrot that can only meow.
 
