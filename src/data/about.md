@@ -39,6 +39,7 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 # I like
 
 - My wonderful girlfriend, [Summer Nairn](https://summer-nairn.com)
+- Python
 - Learning and generally being curious about things
 - Machine Learning
 - Space 
@@ -61,14 +62,14 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 
 
 
-# Fun facts
+# Fun Facts About Me
 
 - I can (sort of) speak some Czech, or better said, Já umím mluvit trochu Česky.
-- Give me a Rubik's Cude and I'll solve it in less than 5 minutes.  
+- Give me a Rubik's Cude and I'll solve it in less than 3 minutes.  
+- My Favorite programming language is Python, which I taught myself.
 - Can't spell "license" correctly without verifying via spellcheck or google.
 - I have a mullet, because 2020. Gives off a real Joe Dirt vibe, but I like going against the grain.
 - I have a cat named Cookie. He is a ~6 year old tabby rescue, and follows me around everywhere. Kind of like a furry parrot that can only meow.
-
 
 # I dream of
 
