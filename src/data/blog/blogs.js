@@ -2,6 +2,8 @@ import raw from 'raw.macro';
 
 const analystToEngineer = raw('./analyst_to_engineer.md');
 const considerationsForML = raw('./considerations_for_ml.md');
+const prefectAndDask = raw('./prefect_dask.md');
+
 // const disruptingStatusQuo = raw('./disrupting_the_status_quo.md');
 // const Blog = () => (
 //   <Main
@@ -39,6 +41,13 @@ const blogs = [
     subtitle: 'Making the Leap',
     date: '5-9-2021',
     text: analystToEngineer,
+  },
+  {
+    name: 'Using-Prefect-and-Dask-For-Distributed-Workloads',
+    title: 'Using Prefect and Dask For Distributed Workloads',
+    subtitle: 'Batch ML & distributed systems made easy',
+    date: '5-31-2021',
+    text: prefectAndDask,
   },
   // {
   //   title: 'Disrupting the Status Quo',
