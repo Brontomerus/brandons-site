@@ -1,7 +1,7 @@
 import raw from 'raw.macro';
 
 const analystToEngineer = raw('./analyst_to_engineer.md');
-const lessonsLearned = raw('./lessons_learned.md');
+const considerationsForML = raw('./considerations_for_ml.md');
 // const disruptingStatusQuo = raw('./disrupting_the_status_quo.md');
 // const Blog = () => (
 //   <Main
@@ -27,11 +27,11 @@ const lessonsLearned = raw('./lessons_learned.md');
 
 const blogs = [
   {
-    name: 'Lessons-Learned-Building-1st-Predictive-Analytics-Systems',
-    title: 'Lessons Learned Building 1st Predictive Analytics Systems',
-    subtitle: 'Prevailing through early failures',
+    name: 'Considerations-For-Building-ML-Integrated-Systems',
+    title: 'Considerations For Building ML-Integrated Systems',
+    subtitle: 'Approaching the use of Machine Learning in production',
     date: '5-8-2021',
-    text: lessonsLearned,
+    text: considerationsForML,
   },
   {
     name: 'From-Analyst-to-Engineer',
