@@ -1,7 +1,7 @@
 
 # Intro
 
-I'm Brandon. I'm currently 25 years old, grew up near Cleveland, Ohio, and I'm always trying to learn & try new things. My career interests are focused on working with companies to fully leverage cloud architectures and machine learning to translate _predictive analytics_ into _prescriptive analytics_. I love to learn and challenge myself, and I like to work with Python and Databases of all shapes, sizes, and theorems. Whether its the ACID Principles or the CAP theorem, Regression or Classification, Supervised or Unsupervised - I'm all about learning how it works and how it fits into the grand scheme of the data analytics stack!
+I'm Brandon. I'm currently 25 years old, grew up near Cleveland, Ohio, and I'm always trying to learn & try new things. My career interests are focused on working with companies to fully leverage cloud architectures and machine learning to translate _predictive analytics_ into _prescriptive analytics_. I love to learn and challenge myself, and I like to work with Python and databases of all shapes, sizes, and theorems. Whether its the ACID Principles or the CAP theorem, Regression or Classification, Supervised or Unsupervised - I'm all about learning how it works and how it fits into the grand scheme of the data analytics stack!
 
 
 # Personal Mission Statement:
