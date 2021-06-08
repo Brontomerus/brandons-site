@@ -238,7 +238,7 @@ const skills = [
     category: ['Data Science'],
   },
   {
-    title: 'Feauture Engineering',
+    title: 'Feature Engineering',
     competency: 4,
     category: ['Data Engineering', 'Data Science'],
   },
