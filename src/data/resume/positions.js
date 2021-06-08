@@ -18,7 +18,7 @@ const positions = [
     daterange: '2019 - Present',
     points: [
       'Architect and build server-based infrastructure for leveraging predictive analytics in production systems by successfully translating predictive models into prescriptive analytics products.',
-      'Lead the Software Development Lifecycle for internal REST API’s & batch worklfows that allow internal teams to readily & reliably make use of predictive models in production & development environments.',
+      'Lead the Software Development Life Cycle for internal REST API’s & batch workflows that allow internal teams to readily & reliably make use of predictive models in production & development environments.',
       'Effectively complete and communicate updates, fixes, and product status to all stakeholders across all teams, resulting in meeting all development deadlines with less than 1% downtime across all products.',
       'Work with statisticians to accurately and efficiently train, integrate, and deploy predictive models to production systems.',
       'Design and construct distributed systems to handle high-volume machine learning workloads, which process millions of records month over month.',
@@ -53,7 +53,7 @@ const positions = [
     daterange: 'Summer 2016',
     points: [
       'Wonderful experience where I leaned about how Logistics works from transportation to warehousing and all things in between.',
-      'Contributed by taking inventory of all their reporting tools into a more digestable, centralized list. This allowed them to onboard a new employee more seamlessly.',
+      'Contributed by taking inventory of all their reporting tools into a more digestible, centralized list. This allowed them to onboard a new employee seamlessly.',
     ],
   },
 ];
