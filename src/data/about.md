@@ -42,6 +42,7 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 - Python
 - Learning and generally being curious about things
 - Machine Learning
+- Riding my motorcycle in sunny weather
 - Space 
      - I even have a tattoo of the pulsar map on Voyager spacecraft, the only man-made object to exit our solar system's heliosphere, becoming the first human-made object to enter – and measure – interstellar space.
 - Entertainment:
@@ -78,3 +79,4 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 - Influencing others' lives in a positive and impact way.
 - Running my own company one day.
 - Making great memories with those I share my time here on Earth with.
+- Wide open highway and the wind blowing through my hair.
