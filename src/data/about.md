@@ -27,7 +27,7 @@ The underlying idea behind this is the premise that its not the other cars that 
 
 I specialize in designing, building, and leveraging systems that drive intelligent decisions using an organization's data. Whether in Business Intelligence or Data Science, I enjoy working with data to make measurable, tangible impacts on the company in which I work for.
 
-At the moment, I work as an Analytics Data Engineer at [RevSpring](https://revspringinc.com/), working in the healthcare RCM space. I also work for [Deck of Dice Gaming](https://www.shakeitupdice.com/) in my spare time, and serve as Director of Analytics, supporting both real-time and server-based analytics for their mobile applications, where I design and build systems to drive decisions.
+At the moment, I work as a Data Engineering Consultant for the Applied Intelligence group at [Accenture](https://accenture.com/), and have formally worked as an Analytics Data Engineer at RevSpring Inc, working in the healthcare RCM space. I also work for [Deck of Dice Gaming](https://www.shakeitupdice.com/) in my spare time, and serve as Director of Analytics, supporting both real-time and server-based analytics for their mobile applications, where I design and build systems to drive decisions.
 
 
 # Some history
