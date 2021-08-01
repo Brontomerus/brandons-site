@@ -22,7 +22,7 @@ const SideBar = () => (
       <p>Hi, I&apos;m Brandon. I like data.
         I am an <a href="https://osu.edu/">Ohio State University</a> graduate, currently serve as
         the Director of Analytics for <a href="https://www.shakeitupdice.com/">Deck of Dice Gaming</a>, and
-        as a Data Engineer at <a href="https://revspringinc.com/">RevSpring Inc</a>.
+        as a Data Engineering Consultant at <a href="https://www.accenture.com/">Accenture</a>.
       </p>
       <ul className="actions">
         <li>
