@@ -1,5 +1,15 @@
 const positions = [
   {
+    company: 'Accenture',
+    position: 'Data Engineering Consultant',
+    link: 'https://www.accenture.com/',
+    daterange: '2021 - Present',
+    points: [
+      '',
+      '',
+    ],
+  },
+  {
     company: 'Deck of Dice Gaming',
     position: 'Director, Mobile Game Data Analytics',
     link: 'https://www.shakeitupdice.com/',
@@ -15,7 +25,7 @@ const positions = [
     company: 'RevSpring',
     position: 'Analytics Data Engineer',
     link: 'https://revspringinc.com/',
-    daterange: '2019 - Present',
+    daterange: '2019 - 2021',
     points: [
       'Architect and build server-based infrastructure for leveraging predictive analytics in production systems by successfully translating predictive models into prescriptive analytics products.',
       'Lead the Software Development Life Cycle for internal REST API’s & batch workflows that allow internal teams to readily & reliably make use of predictive models in production & development environments.',
