@@ -5,8 +5,8 @@ const positions = [
     link: 'https://www.accenture.com/',
     daterange: '2021 - Present',
     points: [
-      '',
-      '',
+      'Generate value for clients by assisting development needs and identifying best practices within data engineering tech stacks.',
+      'Assist defining and constructing tools for external clients.',
     ],
   },
   {
