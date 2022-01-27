@@ -38,10 +38,9 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 
 # I like
 
-- My wonderful girlfriend, [Summer Nairn](https://summer-nairn.com)
 - Python
 - Learning and generally being curious about things
-- Machine Learning
+- Data Science & Machine Learning 
 - Riding my motorcycle in sunny weather
 - Space 
      - I even have a tattoo of the pulsar map on Voyager spacecraft, the only man-made object to exit our solar system's heliosphere, becoming the first human-made object to enter – and measure – interstellar space.
@@ -65,7 +64,7 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 
 # Fun Facts About Me
 
-- I can (sort of) speak some Czech, or better said, Já umím mluvit trochu Česky.
+- I can (sort of) speak some Czech, or better said, Já umím mluvit trochu Česky. As this ages I get less and less capable everyday unfortunately.
 - Give me a Rubik's Cude and I'll solve it in less than 5 minutes. My PR is 1:50!  
 - My Favorite programming language is Python, which I taught myself.
 - Can't spell "license" correctly without verifying via spellcheck or google.
