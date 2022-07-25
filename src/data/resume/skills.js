@@ -8,6 +8,11 @@ const skills = [
     category: ['Data Storage & Databases', 'RDBMS', 'ETL/ELT'],
   },
   {
+    title: 'Databricks',
+    competency: 4,
+    category: ['Data Storage & Databases', 'Data Engineering', 'ETL/ELT', 'Python', 'Data Science'],
+  },
+  {
     title: 'MySQL / AWS Aurora',
     competency: 4,
     category: ['Cloud Components', 'Data Storage & Databases', 'RDBMS', 'ETL/ELT'],
