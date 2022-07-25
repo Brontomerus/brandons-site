@@ -64,12 +64,13 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 
 # Fun Facts About Me
 
-- I can (sort of) speak some Czech, or better said, Já umím mluvit trochu Česky. As this ages I get less and less capable everyday unfortunately.
+
 - Give me a Rubik's Cude and I'll solve it in less than 5 minutes. My PR is 1:50!  
 - My Favorite programming language is Python, which I taught myself.
+- I can (sort of) speak some Czech, or better said, Já umím mluvit trochu Česky. As this ages I get less and less capable everyday unfortunately.
 - Can't spell "license" correctly without verifying via spellcheck or google.
-- I have a mullet, because 2020. Gives off a real Joe Dirt vibe, but I like going against the grain.
-- I have a cat named Cookie. He is a ~6 year old tabby rescue, and follows me around everywhere. Kind of like a furry parrot that can only meow.
+- I once had a raging mullet.
+- I have a cat named Cookie. He is a ~6 year old rescue.
 - My favorite color is forest green.
 
 # I dream of
@@ -79,4 +80,4 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 - Influencing others' lives in a positive and impact way.
 - Running my own company one day.
 - Making great memories with those I share my time here on Earth with.
-- Wide open highway and the wind blowing through my hair.
+- Wide open highway on a sunny day in July.
