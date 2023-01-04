@@ -7,7 +7,7 @@ const positions = [
     points: [
       'Generate value for clients by assisting development needs and identifying best practices within data engineering tech stacks.',
       'Identifying opportunities for streamlining or automating workloads to create leaner organizations.',
-      'Managing large-scale cloud migration efforts involving hundreds of tables and petabytes of data. ',
+      'Managing large-scale cloud migration efforts involving hundreds of tables and petabytes of data.',
     ],
   },
   {
