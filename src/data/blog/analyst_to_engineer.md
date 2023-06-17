@@ -45,3 +45,4 @@ I may not have the typical expensive educational background and natural genius t
 
 You're going to have set backs. You're going to fail. You're going to be working longer than others to get the same job done... and thats _okay_. With time and effort, anything is possible!
 
+
