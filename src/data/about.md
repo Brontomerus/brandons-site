@@ -68,7 +68,6 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 - Give me a Rubik's Cude and I'll solve it in less than 5 minutes. My PR is 1:50!  
 - My Favorite programming language is Python, which I taught myself.
 - I can (sort of) speak some Czech, or better said, Já umím mluvit trochu Česky. As this ages I get less and less capable everyday unfortunately.
-- Can't spell "license" correctly without verifying via spellcheck or google.
 - I once had a raging mullet.
 - I have a cat named Cookie. He is a ~6 year old rescue.
 - My favorite color is forest green.
