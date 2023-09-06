@@ -4,5 +4,5 @@ const config = {
     '^.+\\.md$': 'markdown-to-jsx',
   },
 };
-  
+
 module.exports = config;
