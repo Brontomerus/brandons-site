@@ -29,7 +29,7 @@ Omaha|NE|Ehh, weekend worthy|
 Tucson|AZ|Stay downtown, worth a weekend|
 Bay St. Louis|MS|Decent little beach town|
 Biloxi|MS|Decent beach town with casinos, but excellent beach. + Patio 44|
-Ashville***|NC|Biltmore, great downtown, hiking base camp, overall kicks ass, Biltmore Village, Sierra Nevada brewing tours, black mountain|
+Ashville|NC|Biltmore, great downtown, hiking base camp, overall kicks ass, Biltmore Village, Sierra Nevada brewing tours, black mountain|
 Highlands|NC|The Bozeman of the South|
 Greenville|SC|Will pleasantly surprise you. Cool downtown waterfall|
 Savannah|GA|Franklin square, waterfront walk, open container, Broughton St.|
