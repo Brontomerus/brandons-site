@@ -74,3 +74,4 @@ Rams Head Tavern||Annapolis |MD|Chicken Berndetta |Slaps. 1 or 2 on list.|
 Baxters||Akron|OH|Hot! Burger|
 Jaspers||Nashville |TN|Hot chicken pizza|Hot as hell but so tasty. Tough for one person to finish without heart burn|
 5th & Taylor||Nashville|TN| Filet (pricey tho)|Mashed taters were best I’ve ever had. Filet was melt-in-mouth and justifies the $$|
+
