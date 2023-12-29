@@ -8,13 +8,18 @@ const skills = [
     category: ['Data Storage & Databases', 'RDBMS', 'ETL/ELT'],
   },
   {
-    title: 'Databricks',
+    title: 'MySQL',
     competency: 4,
-    category: ['Data Storage & Databases', 'Data Engineering', 'ETL/ELT', 'Python', 'Data Science'],
+    category: ['Cloud Components', 'Data Storage & Databases', 'RDBMS', 'ETL/ELT'],
   },
   {
-    title: 'MySQL / AWS Aurora',
+    title: 'AWS Aurora',
     competency: 4,
+    category: ['Cloud Components', 'Data Storage & Databases', 'RDBMS', 'ETL/ELT'],
+  },
+  {
+    title: 'Postgres',
+    competency: 3.5,
     category: ['Cloud Components', 'Data Storage & Databases', 'RDBMS', 'ETL/ELT'],
   },
   {
@@ -33,14 +38,19 @@ const skills = [
     category: ['Data Storage & Databases', 'NoSQL'],
   },
   {
-    title: 'Git',
-    competency: 5,
-    category: ['DevOps', 'SDLC'],
+    title: 'networkx',
+    competency: 4.5,
+    category: ['Data Storage & Databases', 'NoSQL'],
   },
   {
-    title: 'Pulumi',
-    competency: 3,
-    category: ['DevOps', 'Cloud', 'SDLC'],
+    title: 'Git',
+    competency: 5,
+    category: ['DevOps', 'SDLC', 'Project Management'],
+  },
+  {
+    title: 'Azure DevOps',
+    competency: 5,
+    category: ['DevOps', 'SDLC', 'Project Management'],
   },
   {
     title: 'Docker',
@@ -54,23 +64,13 @@ const skills = [
   },
   {
     title: 'Amazon Web Services',
-    competency: 4,
+    competency: 4.5,
     category: ['Cloud', 'DevOps', 'SDLC'],
   },
   {
-    title: 'AWS Elastic Compute Services + Fargate & ECR',
-    competency: 5,
-    category: ['Cloud Components', 'ETL/ELT', 'Distributed Systems'],
-  },
-  {
-    title: 'AWS Lambda',
-    competency: 5,
-    category: ['Cloud Components', 'ETL/ELT'],
-  },
-  {
-    title: 'AWS S3',
-    competency: 5,
-    category: ['Cloud Components', 'Data Storage & Databases', 'ETL/ELT', 'NoSQL'],
+    title: 'Azure',
+    competency: 3.5,
+    category: ['Cloud', 'DevOps', 'SDLC'],
   },
   {
     title: 'AWS Serverless Stack',
@@ -78,14 +78,9 @@ const skills = [
     category: ['Cloud Components', 'Data Storage & Databases', 'ETL/ELT'],
   },
   {
-    title: 'AWS Network Architecture (VPC, Subnets, Security Groups, Gateways, etc.)',
-    competency: 5,
-    category: ['Cloud Components', 'Data Storage & Databases', 'ETL/ELT'],
-  },
-  {
-    title: 'AWS CloudWatch',
+    title: 'AWS Network Architecture',
     competency: 4,
-    category: ['Cloud Components', 'Data Storage & Databases', 'ETL/ELT'],
+    category: ['Cloud Components'],
   },
   {
     title: 'Javascript',
@@ -180,7 +175,7 @@ const skills = [
   {
     title: 'SAS Viya',
     competency: 5,
-    category: ['Business Intelligence & Data Visualization'],
+    category: ['Business Intelligence & Data Visualization', 'Cloud'],
   },
   {
     title: 'Dask',
@@ -188,24 +183,29 @@ const skills = [
     category: ['Data Engineering', 'Python', 'Distributed Systems', 'Data Science', 'ETL/ELT'],
   },
   {
-    title: 'Dask-CloudProvider',
-    competency: 4,
-    category: ['Data Engineering', 'Python', 'Distributed Systems', 'DevOps'],
-  },
-  {
-    title: 'Dask-ML',
-    competency: 4,
-    category: ['Data Engineering', 'Python', 'Distributed Systems', 'Data Science'],
-  },
-  {
     title: 'Prefect',
-    competency: 4,
+    competency: 3,
     category: ['Data Engineering', 'Python', 'Distributed Systems', 'ETL/ELT'],
   },
   {
-    title: 'Pandas',
+    title: 'Databricks',
+    competency: 5,
+    category: ['Data Engineering', 'Python', 'Distributed Systems', 'ETL/ELT', 'Cloud', 'Data Science', 'NoSQL', 'Data Storage & Databases'],
+  },
+  {
+    title: 'Snowflake',
+    competency: 2.5,
+    category: ['Data Engineering', 'ETL/ELT', 'Cloud', 'Data Storage & Databases', 'NoSQL'],
+  },
+  {
+    title: 'pandas',
     competency: 5,
     category: ['Data Engineering', 'Data Science', 'Python'],
+  },
+  {
+    title: 'pyspark',
+    competency: 5,
+    category: ['Data Engineering', 'Data Science', 'Python', 'ETL/ELT'],
   },
   {
     title: 'Numpy',
@@ -255,7 +255,7 @@ const skills = [
   {
     title: 'MLOps',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python', 'Cloud', 'DevOps', 'SDLC'],
+    category: ['Data Engineering', 'Data Science', 'Python', 'DevOps', 'SDLC'],
   },
   {
     title: 'Machine Learning',
@@ -300,11 +300,11 @@ const skills = [
   {
     title: 'JIRA',
     competency: 4,
-    category: ['Soft Skills', 'SDLC'],
+    category: ['Soft Skills', 'SDLC', 'Project Management'],
   },
   {
     title: 'Leadership',
-    competency: 4,
+    competency: 5,
     category: ['Soft Skills'],
   },
   {
@@ -321,6 +321,16 @@ const skills = [
     title: 'Listening',
     competency: 5,
     category: ['Soft Skills'],
+  },
+  {
+    title: 'CI/CD',
+    competency: 5,
+    category: ['DevOps', 'SDLC'],
+  },
+  {
+    title: 'Terraform',
+    competency: 4,
+    category: ['DevOps', 'Cloud', 'SDLC'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 

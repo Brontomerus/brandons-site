@@ -1,6 +1,19 @@
 const positions = [
   {
     company: 'Accenture',
+    position: 'Data Engineering Associate Manager',
+    link: 'https://www.accenture.com/',
+    daterange: '2021 - Present',
+    points: [
+      'Lead teams delivering technical projects to maximize client value.',
+      'Supervise team on requirements gathering into design specification and documenting technical specifications for development.',
+      'Work across Data Engineering Service Delivery Lifecycle and maintain applications to defined SLAs.',
+      'Conduct project risk and issue management (including status reporting, issue reporting, and ETC/budget reporting) for assigned scope of work, and make decisions that impact team through regular consultation with senior management.',
+      'Manage project execution and responsible for all project deliverables adhering to schedule and budget.',
+    ],
+  },
+  {
+    company: 'Accenture',
     position: 'Data Engineering Consultant',
     link: 'https://www.accenture.com/',
     daterange: '2021 - Present',
