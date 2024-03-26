@@ -1,9 +1,20 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'ML-Workflows',
+    subtitle: 'Scalable Batch Processing For Modern ML Workloads',
+    link: 'https://github.com/Brontomerus/ml-workflows',
+    image: '/images/projects/mlworkflows.png', // TODO: Change picture
+    date: '2021-05-14',
+    desc:
+        'Serverless batch workload infrastructure, setup, and example code to use as a springboard '
+        + 'for use in future projects I am involved with. The system leverages a potent combination of '
+        + 'Databricks, Amazon Web Services, and Terraform (Infrastructure as Code).',
+  },
+  {
     title: 'NFL Arrests Serverless API',
     subtitle: 'Predicting NFL Fan Behavior with Serverless Machine Learning',
-    link: 'https://analytics.brandondonelan.com/docs',
+    link: 'https://brandon-donelan.com/projects',
     image: '/images/projects/nflarrests.png',
     date: '2020-5-15',
     desc:
@@ -20,17 +31,6 @@ const data = [
     date: '2021-01-05',
     desc:
       'Project aiming to assist analysts in connecting to a database and pulling data out for analysis.',
-  },
-  {
-    title: 'ML-Workflows',
-    subtitle: 'Scalable Batch Processing For Modern ML Workloads',
-    link: 'https://github.com/Brontomerus/ml-workflows',
-    image: '/images/projects/mlworkflows.png', // TODO: Change picture
-    date: '2021-05-14',
-    desc:
-      'Serverless batch workload infrastructure, setup, and example code to use as a springboard '
-      + 'for use in future projects I am involved with. The system leverages a potent combination of '
-      + 'Prefect (workflow orchestration), Dask (distributed systems), Amazon Web Services, and Pulumi (Infrastructure as Code).',
   },
 ];
 
