@@ -1,9 +1,22 @@
 const positions = [
   {
     company: 'Accenture',
+    position: 'Data Eng, Mgmt, and Governance Manager',
+    link: 'https://www.accenture.com/',
+    daterange: '2024 - Present',
+    points: [
+      'Strategic planning and business alignment with stakeholders',
+      'Define, implement, and oversee regional data governance framework, standards, and practices, ensuring alignment with enterprise policies.',
+      'Drive the adoption of effective data management, metadata management and data modelling (including dimensional modelling) across markets.',
+      'Manage stakeholders effectively, fostering collaboration between business, technical teams and subject matter experts.',
+      'Communicate effectively across technical and non-technical audiences to drive understanding and adoption of governance practices.',
+    ],
+  },
+  {
+    company: 'Accenture',
     position: 'Data Engineering Associate Manager',
     link: 'https://www.accenture.com/',
-    daterange: '2021 - Present',
+    daterange: '2023 - 2024',
     points: [
       'Lead teams delivering technical projects to maximize client value.',
       'Supervise team on requirements gathering into design specification and documenting technical specifications for development.',
@@ -16,7 +29,7 @@ const positions = [
     company: 'Accenture',
     position: 'Data Engineering Consultant',
     link: 'https://www.accenture.com/',
-    daterange: '2021 - Present',
+    daterange: '2021 - 2023',
     points: [
       'Generate value for clients by assisting development needs and identifying best practices within data engineering tech stacks.',
       'Identifying opportunities for streamlining or automating workloads to create leaner organizations.',
