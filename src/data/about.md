@@ -1,8 +1,7 @@
 
 # Intro
 
-I'm Brandon. I'm currently 25 years old, grew up near Cleveland, Ohio, and I'm always trying to learn & try new things. My career interests are focused on working with companies to fully leverage cloud architectures and machine learning to translate _predictive analytics_ into _prescriptive analytics_. I love to learn and challenge myself, and I like to work with Python and databases of all shapes, sizes, and theorems. Whether its the ACID Principles or the CAP theorem, Regression or Classification, Supervised or Unsupervised - I'm all about learning how it works and how it fits into the grand scheme of the data analytics stack!
-
+I'm Brandon. I'm currently 30 years old, grew up near Cleveland, Ohio, and I'm always trying to learn & try new things. My career interests are focused on working with organizations to leverage new technologies into tangible impacts. Currently co-located between Cleveland and Reno, NV.
 
 # Personal Mission Statement:
 
@@ -25,15 +24,16 @@ The underlying idea behind this is the premise that its not the other cars that 
 
 # Currently
 
-I specialize in designing, building, and leveraging systems that drive intelligent decisions using an organization's data. Whether in Business Intelligence or Data Science, I enjoy working with data to make measurable, tangible impacts on the company in which I work for.
+I specialize in designing, building, and leveraging systems that drive intelligent decisions using an organization's data. I enjoy working with data to make measurable, tangible impacts on the organization in which I work for.
 
-At the moment, I work as a Data Engineering Consultant at [Accenture](https://accenture.com/), and have formally worked as an Analytics Data Engineer at RevSpring Inc, working in the healthcare RCM space. I also work for [Deck of Dice Gaming](https://www.shakeitupdice.com/) in my spare time, and serve as Director of Analytics, supporting both real-time and server-based analytics for their mobile applications, where I design and build systems to drive decisions.
+At the moment, my main occupation is Data Engineering, Management, and Governance Manager at [Accenture](https://accenture.com/). I am also a Founding Partner and CTO with DSP Care Solutions.
+
+I have formally worked as an Analytics Data Engineer at RevSpring Inc, working in the healthcare RCM space. I also moonlighted for [Deck of Dice Gaming](https://www.shakeitupdice.com/) in my spare time, serving as Director of Analytics, supporting both real-time and server-based analytics for their mobile applications, where I design and build systems to drive decisions.
 
 
 # Some history
 
-I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville,+OH), which is a suburb directly southwest of Cleveland, Ohio. I attended the wonderful public schools there, and graduated from Strongsville High School in the class of 2014. While growing up, I enjoyed athletics and was involved in both football and baseball throughout most of my childhood and was able to pursue that because of the support from my wonderful parents, Tom and Ginny. I have 2 older siblings, a brother named Connor and a sister named Emmie. As the youngest of three, perhaps my greatest feat was still being my parents favorite despite the long odds. 
-
+I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville,+OH), which is a suburb directly southwest of Cleveland, Ohio. I attended the wonderful public schools there, and graduated from Strongsville High School in the class of 2014. While growing up, I enjoyed athletics and was involved in both football and baseball throughout most of my childhood and was able to pursue that because of the support from my wonderful parents, Tom and Ginny. I have 2 older siblings, a brother named Connor and a sister named Emmie.
 
 
 # I like
@@ -69,8 +69,9 @@ I grew up in [Strongsville, Ohio](https://www.google.com/maps/place/Strongsville
 - My Favorite programming language is Python, which I taught myself.
 - I can (sort of) speak some Czech, or better said, Já umím mluvit trochu Česky. As this ages I get less and less capable everyday unfortunately.
 - I once had a raging mullet.
-- I have a cat named Cookie. He is a ~6 year old rescue.
+- I have 2 cats.
 - My favorite color is forest green.
+- I lived in a Winnebago for about 2 years as I traveled the country.
 
 # I dream of
 
