@@ -31,7 +31,8 @@
         "declaration": true,
         "assignment": true,
         "return": true
-      }]
+      }],
+      "linebreak-style": "off"
     },
     "plugins": [
       "react"

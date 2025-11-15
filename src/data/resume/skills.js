@@ -5,7 +5,7 @@ const skills = [
   {
     title: 'Agentic AI',
     competency: 5,
-    category: ['AI', 'Machine Learning', 'Data Science],
+    category: ['AI', 'Machine Learning', 'Data Science'],
   },{
     title: 'MS SQL Server',
     competency: 4,
@@ -194,7 +194,7 @@ const skills = [
   {
     title: 'Databricks',
     competency: 5,
-    category: ['Data Engineering', 'Python', 'Distributed Systems', 'ETL/ELT', 'Cloud', 'Data Science', 'NoSQL', 'Data Storage & Databases'],
+    category: ['Data Engineering', 'Python', 'Distributed Systems', 'AI', 'ETL/ELT', 'Cloud', 'Data Science', 'NoSQL', 'Data Storage & Databases'],
   },
   {
     title: 'Snowflake',
@@ -229,7 +229,7 @@ const skills = [
   {
     title: 'Scikit-Learn',
     competency: 4.5,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Engineering', 'Data Science', 'AI', 'Python'],
   },
   {
     title: 'Regression',
@@ -249,22 +249,22 @@ const skills = [
   {
     title: 'Feature Engineering',
     competency: 4,
-    category: ['Data Engineering', 'Data Science'],
+    category: ['Data Engineering', 'Data Science', 'AI'],
   },
   {
     title: 'Natural Langauge Processing',
     competency: 3.5,
-    category: ['Data Engineering', 'Data Science'],
+    category: ['Data Engineering', 'Data Science', 'AI'],
   },
   {
     title: 'MLOps',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python', 'DevOps', 'SDLC'],
+    category: ['Data Engineering', 'Data Science', 'AI', 'Python', 'DevOps', 'SDLC'],
   },
   {
     title: 'Machine Learning',
     competency: 4.5,
-    category: ['Data Engineering', 'Data Science', 'Python', 'Distributed Systems'],
+    category: ['Data Engineering', 'AI', 'Data Science', 'Python', 'Distributed Systems'],
   },
   {
     title: 'Critical Thinking',
