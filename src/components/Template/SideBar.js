@@ -19,10 +19,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Brandon. I like data.
+      <p>Hi, I&apos;m Brandon. I like technology.
         I am an <a href="https://osu.edu/">Ohio State University</a> graduate, currently working
-        as a Data Engineering Associate Manager at <a href="https://www.accenture.com/">Accenture</a> & formally
-        the Director of Data Engineering & Analytics for startup, <a href="https://www.shakeitupdice.com/">Deck of Dice Gaming</a>
+        as a Data Engineering, Management, and Governance Manager at <a href="https://www.accenture.com/">Accenture</a> 
       </p>
       <ul className="actions">
         <li>
