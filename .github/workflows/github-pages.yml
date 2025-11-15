@@ -60,14 +60,10 @@ jobs:
           xdg-utils
     - name: Install
       run: npm install --legacy-peer-deps
-    - name: Build
-      run: npm run build
+    - name: Build and Statically Render
+      run: npm run predeploy
       env:
         NODE_ENV: production
-    - name: Statically Render (optional)
-      continue-on-error: true
-      run: npx react-snap
-      env:
         PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: 'false'
         DISPLAY: ':99'
     - name: Deploy
