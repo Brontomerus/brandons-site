@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Brandon. I like technology.
         I am an <a href="https://osu.edu/">Ohio State University</a> graduate, currently working
-        as a Data Engineering, Management, and Governance Manager at <a href="https://www.accenture.com/">Accenture</a> 
+        as a Data Engineering, Management, and Governance Manager at <a href="https://www.accenture.com/">Accenture</a>
       </p>
       <ul className="actions">
         <li>

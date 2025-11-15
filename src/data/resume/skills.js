@@ -6,7 +6,7 @@ const skills = [
     title: 'Agentic AI',
     competency: 5,
     category: ['AI', 'Machine Learning', 'Data Science'],
-  },{
+  }, {
     title: 'MS SQL Server',
     competency: 4,
     category: ['Data Storage & Databases', 'RDBMS', 'ETL/ELT'],
