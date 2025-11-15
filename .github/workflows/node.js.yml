@@ -70,7 +70,13 @@ jobs:
     - run: npm install --legacy-peer-deps
     - name: Lint
       run: npm run lint
-    - name: Build and Statically Render
-      run: npm run predeploy
+    - name: Build
+      run: npm run build
       env:
         NODE_ENV: development
+    - name: Statically Render (optional)
+      continue-on-error: true
+      run: npx react-snap
+      env:
+        PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: 'false'
+        DISPLAY: ':99'

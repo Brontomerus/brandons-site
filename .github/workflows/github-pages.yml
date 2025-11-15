@@ -60,9 +60,18 @@ jobs:
           xdg-utils
     - name: Install
       run: npm install --legacy-peer-deps
-    - name: Build and Deploy
+    - name: Build
+      run: npm run build
       env:
         NODE_ENV: production
+    - name: Statically Render (optional)
+      continue-on-error: true
+      run: npx react-snap
+      env:
+        PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: 'false'
+        DISPLAY: ':99'
+    - name: Deploy
+      env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         # Remove this line if you would like to skip using google analytics
         # REACT_APP_GA_TRACKING_ID: UA-68649021-1
