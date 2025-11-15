@@ -1,5 +1,19 @@
 const positions = [
   {
+    company: 'DSP Care Solutions',
+    position: 'Founding Partner, CTO',
+    link: 'https://www.dspcaresolutions.com/',
+    daterange: '2024 - Present',
+    points: [
+      'Define and build the technical foundation for the company, including the data platform, the AI platform, and the infrastructure to support the company.',
+      'Develop and implement the company\'s data strategy, including the data architecture, the data governance, and the data management.',
+      'Work with key stakeholders to define the company\'s data needs and requirements.',
+      'Architect the infrastructure for the company focusing on security, scalability, and reliability.',
+      'Strategic decision-making for mission critical systems.',
+      'Manage the companys technical infrastructure and support the companys operations.',
+    ],
+  },
+  {
     company: 'Accenture',
     position: 'Data Eng, Mgmt, and Governance Manager',
     link: 'https://www.accenture.com/',
