@@ -5,9 +5,9 @@ const positions = [
     link: 'https://www.dspcaresolutions.com/',
     daterange: '2024 - Present',
     points: [
-      'Define and build the technical foundation for the company, including the data platform, the AI platform, and the infrastructure to support the company.',
-      'Develop and implement the company\'s data strategy, including the data architecture, the data governance, and the data management.',
-      'Work with key stakeholders to define the company\'s data needs and requirements.',
+      'Define and build the technical foundations for firms, including the data platform, the AI platform, and the infrastructure.',
+      'Develop and implement the data strategies, including the data architecture, the data governance, and the data management.',
+      'Work with key stakeholders to define data needs and requirements.',
       'Architect the infrastructure for the company focusing on security, scalability, and reliability.',
       'Strategic decision-making for mission critical systems.',
       'Manage the companys technical infrastructure and support the companys operations.',
@@ -19,6 +19,11 @@ const positions = [
     link: 'https://www.accenture.com/',
     daterange: '2024 - Present',
     points: [
+      'Leading team of 6-20 individuals on major system integrations projects across several global regions which entails staffing projects, setting expectations, establishing the ways of working within our software development lifecycles, & defining execution models for projects.',
+      'Maintain applications according to SLAs and manage project execution to ensure adherence to budget, schedule, and scope.',
+      'Support organizational AI implementations with rollout of Amazon Q and Claude Code hosted in AWS Bedrock.',
+      'Manage CI/CD components as well as release management practices across the tech stack consisting of Jira, Git, Terraform, Docker, AWS Pipelines, etc.',
+      'Maintain applications according to SLAs and manage project execution to ensure adherence to budget, schedule, and scope.',
       'Strategic planning and business alignment with stakeholders',
       'Define, implement, and oversee regional data governance framework, standards, and practices, ensuring alignment with enterprise policies.',
       'Drive the adoption of effective data management, metadata management and data modelling (including dimensional modelling) across markets.',
@@ -32,11 +37,14 @@ const positions = [
     link: 'https://www.accenture.com/',
     daterange: '2023 - 2024',
     points: [
-      'Lead teams delivering technical projects to maximize client value.',
-      'Supervise team on requirements gathering into design specification and documenting technical specifications for development.',
+      'Leading team(s) of 4-12 individuals on several engagements entailing setting expectations, establishing the ways of working within our software development lifecycles, & defining execution models for projects.',
+      'Supervise team on requirements gathering into design specification and documenting technical specifications for development in Agile development environments.',
       'Work across Data Engineering Service Delivery Lifecycle and maintain applications to defined SLAs.',
       'Conduct project risk and issue management (including status reporting, issue reporting, and ETC/budget reporting) for assigned scope of work, and make decisions that impact team through regular consultation with senior management.',
       'Manage project execution and responsible for all project deliverables adhering to schedule and budget.',
+      'Building API’s to leverage an Agentic AI architecture to speed development, handle project management needs, and lower costs.',
+      'Cloud Modernization project for large healthcare organization to transform legacy COBOL/JCL Mainframe code to a cloud platform.',
+      'Research published with top leadership regarding integrating Ontologies & Knowledge Graphs within organizations.',
     ],
   },
   {
@@ -45,9 +53,11 @@ const positions = [
     link: 'https://www.accenture.com/',
     daterange: '2021 - 2023',
     points: [
+      'Managed multiple ETL teams on large scale cloud migration projects from on-prem processes to Azure, responsible for moving petabytes of data into Azure Databricks Data Lake & Snowflake Data Warehouses. Architected Data Lake DDL Management solution to assist teams managing thousands of external delta tables stored in Azure ADLS.',
       'Generate value for clients by assisting development needs and identifying best practices within data engineering tech stacks.',
       'Identifying opportunities for streamlining or automating workloads to create leaner organizations.',
       'Managing large-scale cloud migration efforts involving hundreds of tables and petabytes of data.',
+      'Identified data lineage for systems using semantic GenAI, modeling output with complex graphs using networkx (python).',
     ],
   },
   {
