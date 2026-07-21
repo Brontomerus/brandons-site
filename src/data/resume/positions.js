@@ -1,18 +1,18 @@
 const positions = [
-  {
-    company: 'DSP Care Solutions',
-    position: 'Founding Partner, CTO',
-    link: 'https://www.dspcaresolutions.com/',
-    daterange: '2024 - Present',
-    points: [
-      'Define and build the technical foundations for firms, including the data platform, the AI platform, and the infrastructure.',
-      'Develop and implement the data strategies, including the data architecture, the data governance, and the data management.',
-      'Work with key stakeholders to define data needs and requirements.',
-      'Architect the infrastructure for the company focusing on security, scalability, and reliability.',
-      'Strategic decision-making for mission critical systems.',
-      'Manage the companys technical infrastructure and support the companys operations.',
-    ],
-  },
+  // {
+  //   company: 'DSP Care Solutions',
+  //   position: 'Founding Partner, CTO',
+  //   link: 'https://www.dspcaresolutions.com/',
+  //   daterange: '2024 - Present',
+  //   points: [
+  //     'Define and build the technical foundations for firms, including the data platform, the AI platform, and the infrastructure.',
+  //     'Develop and implement the data strategies, including the data architecture, the data governance, and the data management.',
+  //     'Work with key stakeholders to define data needs and requirements.',
+  //     'Architect the infrastructure for the company focusing on security, scalability, and reliability.',
+  //     'Strategic decision-making for mission critical systems.',
+  //     'Manage the companys technical infrastructure and support the companys operations.',
+  //   ],
+  // },
   {
     company: 'Accenture',
     position: 'Data Eng, Mgmt, and Governance Manager',
