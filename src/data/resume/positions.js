@@ -1,4 +1,5 @@
 const positions = [
+  /* eslint-disable max-len */
   // {
   //   company: 'DSP Care Solutions',
   //   position: 'Founding Partner, CTO',
@@ -13,6 +14,7 @@ const positions = [
   //     'Manage the companys technical infrastructure and support the companys operations.',
   //   ],
   // },
+  /* eslint-enable max-len */
   {
     company: 'Accenture',
     position: 'Data Eng, Mgmt, and Governance Manager',
